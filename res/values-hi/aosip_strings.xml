@@ -100,7 +100,7 @@
 
     <!-- Notification sound timeout -->
     <string name="app_notification_sound_timeout_title">सूचना ध्वनियों के बीच न्यूनतम समय</string>
-    <string name="app_notification_sound_timeout_summary_template">ध्वनियों या कंपन को एक से अधिक बार हर <xliff:g id="duration">%1$s</xl:> में अनुमति दें</string>
+    <string name="app_notification_sound_timeout_summary_template">ध्वनियों या कंपन को एक से अधिक बार हर <xliff:g id="duration">%1$s</xliff:g> में अनुमति दें</string>
     <string name="app_notification_sound_timeout_value_none">कोई प्रतिबंध नहीं</string>
     <string name="app_notification_sound_timeout_value_10_seconds">दस सेकंड</string>
     <string name="app_notification_sound_timeout_value_30_seconds">30 सेकंड</string>
