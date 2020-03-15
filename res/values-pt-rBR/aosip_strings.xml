@@ -81,7 +81,7 @@
     <string name="app_notification_sound_timeout_value_15_minutes">10 minutos</string>
     <string name="app_notification_sound_timeout_value_30_minutes">30 minutos</string>
     <!-- Disable dashboards conditions and suggestions -->
-    <string name="dashboard_conditions_title">Condições do painel</string>
+    <string name="dashboard_conditions_title">Painel de status</string>
     <string name="summary_dashboard_conditions_enabled">Painel de status está ativado</string>
     <string name="summary_dashboard_conditions_disabled">Painel de status está desativado</string>
     <string name="dashboard_suggestions_title">Painel de Sugestões</string>
