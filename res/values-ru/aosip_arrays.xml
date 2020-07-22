@@ -62,11 +62,6 @@
         <item>60 Гц</item>
         <item>120 Гц</item>
     </string-array>
-    <string-array name="refresh_rate_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <!-- Vibration patterns -->
     <string-array name="vibration_pattern_entries">
         <item>@string/pattern_dzzz_dzzz</item>
